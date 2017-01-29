@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Contacts/Contacts.iml" filepath="$PROJECT_DIR$/Contacts/Contacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContentProviderDemo.iml" filepath="$PROJECT_DIR$/ContentProviderDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuntimePermission/RuntimePermission.iml" filepath="$PROJECT_DIR$/RuntimePermission/RuntimePermission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databasetest/databasetest.iml" filepath="$PROJECT_DIR$/databasetest/databasetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providertest/providertest.iml" filepath="$PROJECT_DIR$/providertest/providertest.iml" />
+    </modules>
+  </component>
+</project>
